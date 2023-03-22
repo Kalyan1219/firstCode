@@ -1,0 +1,1 @@
+console.log("This is my first code to be pushed to the GitHub")
